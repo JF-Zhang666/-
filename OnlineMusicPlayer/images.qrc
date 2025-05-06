@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>C:/Users/24332/Desktop/MyMusicPlayer/before.png</file>
+        <file>C:/Users/24332/Desktop/MyMusicPlayer/continue.png</file>
+        <file>C:/Users/24332/Desktop/MyMusicPlayer/loop.png</file>
+        <file>C:/Users/24332/Desktop/MyMusicPlayer/MyMusicPlayer.jpg</file>
+        <file>C:/Users/24332/Desktop/MyMusicPlayer/next.png</file>
+        <file>C:/Users/24332/Desktop/MyMusicPlayer/pause.png</file>
+        <file>C:/Users/24332/Desktop/MyMusicPlayer/skin.png</file>
+        <file>C:/Users/24332/Desktop/MyMusicPlayer/voice.png</file>
+        <file>C:/Users/24332/Desktop/MyMusicPlayer/close.png</file>
+        <file>C:/Users/24332/Desktop/MyMusicPlayer/background.jpg</file>
+    </qresource>
+</RCC>
